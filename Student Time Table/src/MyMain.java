@@ -41,6 +41,9 @@ public class MyMain {
 			t3.displayTimetable();
 			Timetable t4 = new Timetable("Thursday","IT6256", "2:00-4:00");
 			t4.displayTimetable();
+
+			Timetable t4 = new Timetable("Thursday","IT6256", "8:00-9:00");
+			t4.displayTimetable();
 		}
 		
 	}
