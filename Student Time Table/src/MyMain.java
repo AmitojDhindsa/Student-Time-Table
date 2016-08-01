@@ -42,8 +42,11 @@ public class MyMain {
 			Timetable t4 = new Timetable("Thursday","IT6256", "2:00-4:00");
 			t4.displayTimetable();
 
-			Timetable t4 = new Timetable("Thursday","IT6256", "8:00-9:00");
-			t4.displayTimetable();
+			Timetable t5 = new Timetable("Thursday","IT7345", "8:00-9:00");
+			t5.displayTimetable();
+		}
+		else{
+			System.out.println("Incorrect Values");
 		}
 		
 	}
