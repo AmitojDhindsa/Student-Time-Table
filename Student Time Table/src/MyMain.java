@@ -23,6 +23,8 @@ public class MyMain {
 			S4.display();
 			Student S5 = new Student("Ankit Singh", 234567 , "Graduate Diploma in Information Technology");
 			S5.display();
+			Student S6 = new Student("Ankity Singhi", 234587 , "Graduate Diploma in Information Technology");
+			S5.display();
 		} else if (choice.equals("B")) {
 			Courses c1 = new Courses("Project Management", "IT6268");
 			c1.displayCourseInfo();
