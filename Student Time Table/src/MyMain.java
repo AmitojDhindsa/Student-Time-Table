@@ -29,7 +29,7 @@ public class MyMain {
 			c3.displayCourseInfo();
 			Courses c4 = new Courses("Logical DataBase Design", "IT6256");
 			c4.displayCourseInfo();
-			Courses c5 = new Courses("Information Mangement", "IT6256");
+			Courses c5 = new Courses("Information Mangement", "IT7345");
 			c5.displayCourseInfo();
 
 		} else if (choice.equals("C")) {
