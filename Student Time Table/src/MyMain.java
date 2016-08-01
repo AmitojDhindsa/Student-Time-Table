@@ -35,7 +35,7 @@ public class MyMain {
 		} else if (choice.equals("C")) {
 			Timetable t1 = new Timetable("Monday","IT6268", "8:00-9:00");
 			t1.displayTimetable();
-			Timetable t2 = new Timetable("Tuesday","IT7320", "8:00-9:00");
+			Timetable t2 = new Timetable("Tuesday","IT7320", "10:00-12:00");
 			t2.displayTimetable();
 			Timetable t3 = new Timetable("Wednesday","IT7368","1:00-3:00");
 			t3.displayTimetable();
